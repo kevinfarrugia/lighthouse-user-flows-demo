@@ -1,0 +1,13 @@
+{
+  "name": "lighthouse-user-flows-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/kevinfarrugia/lighthouse-user-flows-demo.git",
+  "author": "Kevin Farrugia <hello@imkev.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^8.6.0",
+    "puppeteer": "^11.0.0"
+  },
+  "type": "module"
+}
